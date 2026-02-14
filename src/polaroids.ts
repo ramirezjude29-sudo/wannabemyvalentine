@@ -11,7 +11,7 @@ export type Polroid = {
 
 export const Polaroids: Polroid[] = [
   {
-    img: '/example-1.webp',
+    img: '/C5746D86-AF57-46F9-BB2B-718615157305 2.JPG',
     top: -2,
     left: 1,
     index: 1,
